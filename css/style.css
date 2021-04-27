@@ -79,7 +79,12 @@ h1 {
 /* Shop Products */ 
 .product-container {
     display: flex;
+    justify-content: center;
     
+}
+
+.child-product-container {
+    padding: 2em;
 }
 
 .product-img {
