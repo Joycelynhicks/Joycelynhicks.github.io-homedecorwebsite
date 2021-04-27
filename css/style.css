@@ -53,6 +53,7 @@ h1 {
     padding-bottom: 2em;
 }
 
+/* Contact Page */
 .contact-header {
     text-align: center;
 }
@@ -64,6 +65,7 @@ h1 {
 .contact-span {
     display: flex;
     display: inline-block;
+    
 }
 
 .form-email {
@@ -79,12 +81,12 @@ h1 {
 /* Shop Products */ 
 .product-container {
     display: flex;
-    justify-content: center;
-    
+    justify-content: center;   
+    margin: 20%;
 }
 
 .child-product-container {
-    padding: 2em;
+    padding: 2em;  
 }
 
 .product-img {
