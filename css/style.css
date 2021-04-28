@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Crimson Text', serif;;
+    font-family: 'Crimson Text', serif;
 }
 
 h1 {
@@ -22,7 +22,6 @@ h1 {
    background-color: #bee3db;
  
 }
-
 
 .section-wrap {
     height: 47vh;
@@ -69,8 +68,8 @@ h1 {
 }
 
 .form-email {
-    margin: 1em 0 ;
-    padding-right: 10em
+    margin: 1em 0;
+    padding-right: 10em;
     
 }
 
@@ -78,12 +77,12 @@ h1 {
     padding-right: 1em;
 }
 
-/* Shop Products */ 
+/* Shop Page */ 
 .product-container {
     display: flex;
     justify-content: center;   
-    margin: 20%;
-    
+    margin: 1em 2em;
+
 }
 
 .child-product-container {
