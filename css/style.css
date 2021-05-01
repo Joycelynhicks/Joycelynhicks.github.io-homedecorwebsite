@@ -99,3 +99,35 @@ h1 {
 /* Media Queries */
 
 @media screen and (max-width: 700px) {}
+
+/* Mobile Screens */
+
+@media screen and (max-width: 550px) {
+    .shop-main-title {
+        font-size: 1.8em;
+        text-align: center;
+    }
+
+    .shop-title {
+       font-size: 1.5em; 
+    }
+
+    .product-container {
+        display: inline;
+        text-align: center;
+        padding: 1em;
+
+       
+    }
+
+    .product-img {
+        height: 40vh;
+    }
+
+    .product-img-p {
+        height: 40vh;
+        
+        
+    }
+
+}
