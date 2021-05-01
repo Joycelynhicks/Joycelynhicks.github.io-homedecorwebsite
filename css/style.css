@@ -100,15 +100,6 @@ figcaption:hover {
     cursor: pointer;
 }
 
-figcaption:visited {
-    color: purple;
-}
-
-
-/* Media Queries */
-
-@media screen and (max-width: 700px) {}
-
 /* Mobile Screens */
 
 @media screen and (max-width: 650px) {
@@ -125,8 +116,6 @@ figcaption:visited {
         display: inline;
         text-align: center;
         padding: 1em;
-
-       
     }
 
     .product-img {
@@ -134,9 +123,45 @@ figcaption:visited {
     }
 
     .product-img-p {
-        height: 40vh;
-        
+        height: 40vh;   
         
     }
+
+}
+
+/* Tablet Screens */
+
+@media screen and (min-width: 650px) and (max-width: 1100px) {
+    .shop-main-title {
+        font-size: 2em;
+        text-align: center;
+    }
+
+    .shop-title {
+       font-size: 1.5em; 
+    }
+
+    .product-container {
+        display: inline;
+        text-align: center;
+        padding: 1em;
+      
+        
+    }
+
+    .product-img {
+        height: 60vh;
+    }
+
+    .product-img-p {
+        height: 60vh; 
+        width: 90vh;  
+        
+    }
+
+    figure {
+        margin-bottom: 4em;
+    }
+
 
 }
