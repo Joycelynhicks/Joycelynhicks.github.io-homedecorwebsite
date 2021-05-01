@@ -140,6 +140,18 @@ figcaption:hover {
 /* Mobile Screens */
 
 @media screen and (max-width: 650px) {
+    /* Home Page */
+    h1 {
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .section-main {
+        font-size: 1.6em;
+        text-align: center;
+    }
+
+    /* Shop Page */
     .shop-main-title {
         font-size: 2em;
         text-align: center;
