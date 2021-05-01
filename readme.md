@@ -1,5 +1,5 @@
 **This is a Readme**
-User Stories
+## User Stories
 
 As a potential customer, I want to be able to see all of the products easily laid out, so I know all of my options before purchase.
 
