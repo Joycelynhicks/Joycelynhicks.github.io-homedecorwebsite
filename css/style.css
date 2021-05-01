@@ -65,6 +65,9 @@ h1 {
 
 
 /* Contact Page */
+body {
+    background-color:#bee3db;;
+}
 
 .contact-header {
     text-align: center;
@@ -72,6 +75,7 @@ h1 {
 
 .contact-form {
     text-align: center;
+
 }
 
 .contact-span {
