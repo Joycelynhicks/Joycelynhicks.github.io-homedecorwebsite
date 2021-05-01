@@ -57,13 +57,12 @@ h1 {
     width:100%;
     height: 60px;
     text-align: center;
-    background-color: #bee3db;
-    
-    
+    background-color: #bee3db;    
 }
 
 
 /* Contact Page */
+
 .contact-body {
     background-color:#bee3db;;
 }
@@ -72,6 +71,21 @@ h1 {
     text-align: center;
 }
 
+
+.contact-span {
+    width: 90%;
+    padding: 5% 10% 10% 20%;
+}
+
+.input-form {
+    width: 100%;
+    margin: auto;
+
+}
+
+
+
+/*
 .contact-form {
     text-align: center;
 
@@ -94,7 +108,8 @@ h1 {
 .comment-form {
     padding-right: 1em;
 }
-
+ 
+  */
 
 /* Shop Page */
 
@@ -156,7 +171,6 @@ figcaption:hover {
     }
 
     .main-section-wrap {
-        
         padding-left: 4em;
     }
 
@@ -168,15 +182,14 @@ figcaption:hover {
     }
 
     .section-wrap-2 {
-        
-        width: 82vw;   
-        
+        width: 82vw;      
     }
 
   }
     
 
     /* Shop Page */
+    
     .shop-main-title {
         font-size: 2em;
         text-align: center;
@@ -243,11 +256,8 @@ figcaption:hover {
     }
 
     .section-wrap-2 {
-        width: 55vw;   
-        
+        width: 55vw;       
     }
-
-
 }
 
 @media screen and (max-width: 1500px) {
