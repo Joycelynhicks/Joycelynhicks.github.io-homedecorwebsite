@@ -75,13 +75,17 @@ h1 {
 }
 
 .contact-span {
-    display: flex;
-    display: inline-block;
+    margin: 1em;
+    
+}
+
+.input-form {
+    padding-right: 2em;
 }
 
 .form-email {
     margin: 1em 0;
-    padding-right: 10em;
+    padding-right: 4em;
 }
 
 .comment-form {
