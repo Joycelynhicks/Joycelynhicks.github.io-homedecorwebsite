@@ -47,6 +47,10 @@ h1 {
     padding-bottom: 2em;
 }
 
+.about-text {
+    padding-bottom: 7em;
+}
+
 .footer {
     position: fixed; 
     bottom:0;
