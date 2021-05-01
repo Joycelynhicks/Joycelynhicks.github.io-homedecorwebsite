@@ -5,7 +5,7 @@ This project is a mock eCommerce website for Home Decor products. This website c
 ## Details
 This site is intented to provide information to customers about the business and products.
 ## Technologies
-HTML and CSS
+HTML, CSS, and Bootstrap v5.0
 ## Future Improvments
 1. Futher build out eCommerce store by adding add to cart functionality.
 2. Further build out products so customers can order directly on the site.
