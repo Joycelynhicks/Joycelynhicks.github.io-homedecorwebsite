@@ -80,36 +80,8 @@ h1 {
 .input-form {
     width: 100%;
     margin: auto;
-
+    padding: 0.2em;
 }
-
-
-
-/*
-.contact-form {
-    text-align: center;
-
-}
-
-.contact-span {
-    margin: 1em;
-    
-}
-
-.input-form {
-    padding-right: 2em;
-}
-
-.form-email {
-    margin: 1em 0;
-    padding-right: 4em;
-}
-
-.comment-form {
-    padding-right: 1em;
-}
- 
-  */
 
 /* Shop Page */
 
