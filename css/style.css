@@ -95,6 +95,11 @@ h1 {
     text-align: center;
 }
 
+figure:hover {
+    box-shadow: 10px 5px 5px #bee3db;
+
+}
+
 figcaption:hover {
     color: blue;
     cursor: pointer;
@@ -123,8 +128,7 @@ figcaption:hover {
     }
 
     .product-img-p {
-        height: 40vh;   
-        
+        height: 40vh;     
     }
 
 }
@@ -144,9 +148,7 @@ figcaption:hover {
     .product-container {
         display: inline;
         text-align: center;
-        padding: 1em;
-      
-        
+        padding: 1em;   
     }
 
     .product-img {
@@ -155,8 +157,7 @@ figcaption:hover {
 
     .product-img-p {
         height: 60vh; 
-        width: 90vh;  
-        
+        width: 90vh;     
     }
 
     figure {
