@@ -110,8 +110,8 @@ h1 {
 }
 
 .product-img-p {
-    
-    width: 60vw;
+    width: 28vw;
+    height: 40vh;
 }
 
 .product-button {
@@ -246,4 +246,12 @@ figcaption:hover {
     }
 
 
+}
+
+/* Desktop Screen */ 
+@media screen and (min-width: 1100px) {
+    .product-img-p {
+        width: 88vw;
+        height: 40vh;
+    }
 }
