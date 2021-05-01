@@ -8,7 +8,7 @@ This site is intented to provide information to customers about the business and
 HTML and CSS
 ## Future Improvments
 1. Futher build out eCommerce store by adding add to cart functionality.
-2. Further build out products so customers can order directly in the store.
+2. Further build out products so customers can order directly on the site.
 3. Add store map so customers can visit the store in person.
 
 ## User Stories
