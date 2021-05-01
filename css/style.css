@@ -95,6 +95,15 @@ h1 {
     text-align: center;
 }
 
+figcaption:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+figcaption:visited {
+    color: purple;
+}
+
 
 /* Media Queries */
 
@@ -104,7 +113,7 @@ h1 {
 
 @media screen and (max-width: 650px) {
     .shop-main-title {
-        font-size: 1.8em;
+        font-size: 2em;
         text-align: center;
     }
 
