@@ -105,6 +105,14 @@ figcaption:hover {
     cursor: pointer;
 }
 
+.product-img:hover {
+    cursor: pointer;
+}
+
+.product-img-p:hover {
+    cursor: pointer;
+}
+
 /* Mobile Screens */
 
 @media screen and (max-width: 650px) {
